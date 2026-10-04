@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sachi Gethmini
+# 👋 Hi, I'm Sachintha Gethmini
 
 ### `Computer Science Undergraduate` · `Full-Stack Developer` · `Mobile Developer`
 
@@ -233,7 +233,10 @@ If you're working on something interesting, feel free to connect!
   <a href="https://github.com/Sachi2001-HD">
     <img src="https://img.shields.io/badge/GitHub-Sachi2001--HD-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/
+sachintha-gethmini
+Vanity URL name
+">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
